@@ -1,0 +1,35 @@
+D:\cloudtesting\pipeline testing\pipeline testing\bin\Release\net8.0\appsettings.Development.json
+D:\cloudtesting\pipeline testing\pipeline testing\bin\Release\net8.0\appsettings.json
+D:\cloudtesting\pipeline testing\pipeline testing\bin\Release\net8.0\pipeline testing.staticwebassets.endpoints.json
+D:\cloudtesting\pipeline testing\pipeline testing\bin\Release\net8.0\pipeline testing.exe
+D:\cloudtesting\pipeline testing\pipeline testing\bin\Release\net8.0\pipeline testing.deps.json
+D:\cloudtesting\pipeline testing\pipeline testing\bin\Release\net8.0\pipeline testing.runtimeconfig.json
+D:\cloudtesting\pipeline testing\pipeline testing\bin\Release\net8.0\pipeline testing.dll
+D:\cloudtesting\pipeline testing\pipeline testing\bin\Release\net8.0\pipeline testing.pdb
+D:\cloudtesting\pipeline testing\pipeline testing\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\cloudtesting\pipeline testing\pipeline testing\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\cloudtesting\pipeline testing\pipeline testing\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\cloudtesting\pipeline testing\pipeline testing\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\pipeline testing.csproj.AssemblyReference.cache
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\pipeline testing.GeneratedMSBuildEditorConfig.editorconfig
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\pipeline testing.AssemblyInfoInputs.cache
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\pipeline testing.AssemblyInfo.cs
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\pipeline testing.csproj.CoreCompileInputs.cache
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\pipeline testing.MvcApplicationPartsAssemblyInfo.cs
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\pipeline testing.MvcApplicationPartsAssemblyInfo.cache
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\scopedcss\bundle\pipeline testing.styles.css
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\staticwebassets.build.json
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\staticwebassets.development.json
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\staticwebassets.build.endpoints.json
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\staticwebassets\msbuild.pipeline testing.Microsoft.AspNetCore.StaticWebAssets.props
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\staticwebassets\msbuild.pipeline testing.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\staticwebassets\msbuild.build.pipeline testing.props
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.pipeline testing.props
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.pipeline testing.props
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\staticwebassets.pack.json
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\pipeline.439B8142.Up2Date
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\pipeline testing.dll
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\refint\pipeline testing.dll
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\pipeline testing.pdb
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\pipeline testing.genruntimeconfig.cache
+D:\cloudtesting\pipeline testing\pipeline testing\obj\Release\net8.0\ref\pipeline testing.dll

@@ -1,0 +1,19 @@
+# Stage 1: Build the application
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+WORKDIR /app
+
+# Copy the project file(s) and restore dependencies
+COPY *.sln .
+COPY pipeline\ testing/*.csproj ./pipeline\ testing/
+RUN dotnet restore
+
+# Copy the rest of the application files and build the app
+COPY . .
+WORKDIR /app/pipeline\ testing
+RUN dotnet publish -c Release -o /publish
+
+# Stage 2: Run the application
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS runtime
+WORKDIR /app
+COPY --from=build /publish .
+ENTRYPOINT ["dotnet", "pipeline testing.dll"]

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5RFu+ib25Xjtkt2LrSQApEljmKk9oPOn0V+BeNSG5Oo=",
+  "Source": "pipeline testing",
+  "BasePath": "_content/pipeline testing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

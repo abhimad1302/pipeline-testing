@@ -1,0 +1,11 @@
+D:\cloudtesting\pipeline testing\out\pipeline testing.exe
+D:\cloudtesting\pipeline testing\out\appsettings.Development.json
+D:\cloudtesting\pipeline testing\out\appsettings.json
+D:\cloudtesting\pipeline testing\out\pipeline testing.dll
+D:\cloudtesting\pipeline testing\out\pipeline testing.deps.json
+D:\cloudtesting\pipeline testing\out\pipeline testing.runtimeconfig.json
+D:\cloudtesting\pipeline testing\out\pipeline testing.pdb
+D:\cloudtesting\pipeline testing\out\Microsoft.OpenApi.dll
+D:\cloudtesting\pipeline testing\out\Swashbuckle.AspNetCore.Swagger.dll
+D:\cloudtesting\pipeline testing\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\cloudtesting\pipeline testing\out\Swashbuckle.AspNetCore.SwaggerUI.dll
